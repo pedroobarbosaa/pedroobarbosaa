@@ -41,7 +41,7 @@ Key techniques: `SAFE_CAST` · `UNION ALL` · `SPLIT + UNNEST + CROSS JOIN` · `
 ### 📫 Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pedro-barbosa-data/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedrobarbosafreire/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:barbosaapedroo@gmail.com">
