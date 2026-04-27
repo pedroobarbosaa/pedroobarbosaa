@@ -2,7 +2,7 @@
 
 <p align="center">
   Data Engineering student based in Brasília 🇧🇷 · Looking for my first formal role in Data Engineering / BI<br/>
-  Otimizei pipelines, dashboards e relatórios estratégicos. 🛠️ Stacks principais: <code>Power BI</code>, <code>Python</code>, <code>SQL</code>, <code>ETL</code>, <code>Cloud</code>
+  I optimized pipelines, dashboards, and strategic reports. 🛠️ Stacks: <code>Power BI</code>, <code>Python</code>, <code>SQL</code>, <code>ETL</code>, <code>Cloud</code>
 </p>
 
 <p align="center">
