@@ -47,4 +47,7 @@ Key techniques: `SAFE_CAST` · `UNION ALL` · `SPLIT + UNNEST + CROSS JOIN` · `
   <a href="mailto:barbosaapedroo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://wa.me/5561993378082" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
